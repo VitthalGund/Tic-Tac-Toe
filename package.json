@@ -1,6 +1,7 @@
 {
-  "name": "myapp",
+  "name": "Tic-Tac-Toe",
   "version": "0.0.0",
+  "author": "Vitthal Gund",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
